@@ -1,0 +1,11 @@
+button {
+  width: 100%;
+}
+
+.container, .opacity-0 {
+  transition: 5s;
+}
+
+.dark {
+  background-color: black;
+}

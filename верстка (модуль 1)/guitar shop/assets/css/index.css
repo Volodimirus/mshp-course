@@ -1,0 +1,40 @@
+body {
+  font-size: 1.2rem;
+}
+
+a:hover {
+  color: inherit;
+}
+
+.main-header {
+  background-color: #EDEDEF;
+}
+
+.main-header .navbar a, .main-header h1 a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.main-header h1 {
+  color: #3c3c3c;
+}
+
+.main-header h1:hover {
+  color: #444444;
+}
+
+.nav-item.active {
+  text-decoration: underline;
+}
+
+.nav-item:hover {
+  text-decoration: underline;
+}
+
+.card-title {
+  font-size: 1.5rem;
+}
+
+.card-text {
+  font-size: 1rem;
+}

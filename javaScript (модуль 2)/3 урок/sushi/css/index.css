@@ -1,0 +1,12 @@
+header img {
+  width: 100%;
+  max-width: 1000px;
+}
+header {
+  background-color: #ededf5;
+  text-align: center;
+}
+
+.container {
+  max-width: 1000px;
+}
