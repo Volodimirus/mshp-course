@@ -1,0 +1,11 @@
+.container {
+  max-width: 1000px;
+}
+
+.important {
+  background-color: rgba(224, 105, 240, 0.664);
+}
+
+.study {
+  background-color: rgb(140, 240, 140);
+}
